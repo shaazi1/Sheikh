@@ -12,7 +12,7 @@ public class Amazonpurchase {
 	Amazonpagefactory pf;
 
 	
-	public void getSetup() {
+	//public void getSetup() {
 		
 		System.setProperty("webdriver.chrome.driver","/home/mahbub/WebDrivers/chromedriver_linux64/chromedriver");
 		driver = new ChromeDriver();
